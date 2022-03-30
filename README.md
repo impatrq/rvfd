@@ -28,7 +28,8 @@ Materia: Representacion Visual y Frontal de Datos
 ## Orientacion
 
 - Documentacion de [micropython](https://docs.micropython.org/en/latest/rp2/quickref.html)
-- Raspberry Pico [SDK](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf) para miccropython.
+- Raspberry Pico [SDK](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf) para micropython.
+- Modulo [math](https://docs.micropython.org/en/latest/library/math.html) de micropython.
 
 ## Entrega
 
