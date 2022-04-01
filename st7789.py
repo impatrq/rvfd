@@ -294,7 +294,7 @@ class ST77xx:
                 err += dx
             x0 += 1
             
-    def circle(x, y, r, color:
+    def circle(x, y, r, color):
        """
        Grafica un circulo a partir del centro (coordenadas x, y),
        el radio (r) y el color.
