@@ -11,9 +11,9 @@ El proyecto final consiste en hacer una pagina web con `HTML`, `CSS`, `JavaScrip
 
 ## Documentacion
 
-- [Django](django) para el backend.
-- [Bootstrap](bootsrap) para estilos.
-- [HTML](html), [CSS](css) y [JavaScript](javascript) para el frontend.
+- [Django][django] para el backend.
+- [Bootstrap][bootsrap] para estilos.
+- [HTML][html], [CSS][css] y [JavaScript][javascript] para el frontend.
 
 
 [django]: https://docs.djangoproject.com/en/4.0/intro/
